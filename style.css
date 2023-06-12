@@ -1,0 +1,28 @@
+body{
+			background-color: #3366ff;
+		}
+		#result{
+			left: 35%;
+			top: 35%;
+			color: white;
+			position: absolute;
+			font-size: 30px;
+		}
+		h1,h2{
+			text-align: center;
+			color: white;
+			font-family: Arial Black;
+		}
+		p{
+			text-align: center;
+			color: white;
+			font-size: 20px;
+		}
+		.btn{
+			margin: 0;
+			position: absolute;
+			left: 42%;
+			top: 50%;
+			max-width: 15%;
+			max-height: 25%;
+		}
